@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+it shows the lines that were removed from the old versions and 
+added to the new version
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+it helps to know what lines of code improved specific features of the project
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+it allows the programmer to save logic steps.
+However, the programmer might forget to save important changes.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+usually Git is used for coding files. They are related to each other.
+Google Drive is not specific for coding files or correlated files. 
+It is used for saving a bunch of files, not necessarily correlated.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log allows me to view the different commits and the number of
+insertions and deletions
+git diff allows me to compare between different commits
+
+How might using version control make you more confident to make changes that
+could break something?
+
+It allows me to always go back to a previous commit to see what caused 
+the break to occur.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+for saving the changes step-by-step of the projects I am working in
