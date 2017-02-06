@@ -27,7 +27,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows me to compare the changes made by me and the last version pushed form GitHub when I was online.
+
+
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
