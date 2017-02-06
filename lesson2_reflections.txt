@@ -16,13 +16,34 @@ It can hold several files before adding them to the repository by submitting a c
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can temporarily move the files with the logical change to the staging area before submitting the commit.
+
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When I want to test a new idea in my project without changing its main functioning (master branch)
+
+
+
 How do the diagrams help you visualize the branch structure?
+
+It helps to see the different commits as nodes and where the branches split up or merge.
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The commits of both branched will be reachable in the branch that is currently checked-out.
+The diagram helps us to see where the branches split up and merged together.
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging is smoother and easier to perform from the programmer POV.
+Manual merging can be tedious but it is an important step to avoid the program to crash.
+
+
